@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oabahngei.elwood.net/sitemap.xml
